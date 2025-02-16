@@ -17,7 +17,7 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built with 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Chandrasura25/niswey-crud.git
+   git clone https://github.com/Chandrasura25/Niswey-crud
    cd niswey-crud
    ```
 2. Set up the database:
