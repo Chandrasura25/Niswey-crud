@@ -21,7 +21,7 @@ try {
         )
     ";
     $pdo->exec($sql);
-    echo "Table 'contacts' created successfully.<br>";
+    // echo "Table 'contacts' created successfully.<br>";
 } catch (PDOException $e) {
     echo "Database connection failed: " . $e->getMessage();
     exit;
