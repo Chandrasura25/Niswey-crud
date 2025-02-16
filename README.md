@@ -42,3 +42,15 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built with 
 - Contacts will be added to the database.
 
 ## Sample XML Format
+<contacts>
+    <contact>
+        <name>John</name>
+        <lastName>Doe</lastName>
+        <phone>+1234567890</phone>
+    </contact>
+    <contact>
+        <name>Jane</name>
+        <lastName>Smith</lastName>
+        <phone>+0987654321</phone>
+    </contact>
+</contacts>
